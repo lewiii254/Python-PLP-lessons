@@ -27,3 +27,8 @@ print(str[2:5])
 print(str[2:])
 print(str*2)
 print(str+" Test")
+x = 10
+y = 3
+print(x // y)
+print(x ** y)
+
